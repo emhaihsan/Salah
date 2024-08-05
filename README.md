@@ -1,2 +1,2 @@
-# reCap
-Backdrop build project
+# Salah
+A smart Islamic Spiritual Assistance
